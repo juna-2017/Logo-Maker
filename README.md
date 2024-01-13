@@ -24,9 +24,9 @@
   Here is a **video link** to see the functionality of this logo-maker: [Watch Me!](https://drive.google.com/file/d/1eO18ax2npjp3QQwwBbIJ_Y3PX9MbgE3n/view)
 
   Here are some logos that were generated
-   >
+   
   <svg version= "1.1" width = "300" height = "200" xmlns = "http://www.w3.org/2000/svg"><g>Circle<circle cx = "150" cy = "115" r= "80" fill = "Orange"/><text x="150" y="130" text-anchor="middle" font-size="40" fill="blue">YMB</text></g></svg>
-  >
+  
   <svg version= "1.1" width = "300" height = "200" xmlns = "http://www.w3.org/2000/svg"><g>Triangle<polygon points = "150, 18 244, 182 56, 182" fill = "yellow"/><text x="150" y="130" text-anchor="middle" font-size="40" fill="red">JRO</text></g></svg>
 
 
